@@ -3,9 +3,9 @@ export const metadata = {
 };
 
 const projects = [
-  { id: 1, name: "Project one", description: "One sentence about it." },
-  { id: 2, name: "Project two", description: "One sentence about it." },
-  { id: 3, name: "Project three", description: "One sentence about it." },
+  { id: 1, name: "To Do App", description: "A simple to-do list application." },
+  { id: 2, name: "Study Planner", description: "A tool to help organize study sessions." },
+  { id: 3, name: "Equipment Maintenance Tracker", description: "A system for tracking and managing equipment maintenance schedules." },
 ];
 
 export default function ProjectsPage() {
